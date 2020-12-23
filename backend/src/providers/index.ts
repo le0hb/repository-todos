@@ -1,1 +1,1 @@
-import './UsersRepositoryProvider';
+import './UserRepositoryProvider';
