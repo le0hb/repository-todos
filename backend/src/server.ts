@@ -1,6 +1,8 @@
 import express, { response } from 'express';
 import routes from './routes';
 import cors from 'cors';
+
+import './database/typeorm';
 import './providers';
 
 const app = express();
